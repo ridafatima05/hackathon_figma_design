@@ -22,7 +22,7 @@ const Header = () => {
         <div className="">
           <ul className="flex space-x-6 ml-28 font-semibold text-black">
             <li>
-              <Link href={"/"}>New & Featured</Link>
+              <Link href={"/featured"}>New & Featured</Link>
             </li>
             <li>
               <Link href={"/"}>Men</Link>

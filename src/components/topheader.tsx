@@ -24,7 +24,7 @@ const TopHeader = () => {
             <div className=' w-[3px] h-[14px]'>|</div>
             <li className='font-medium'><Link href={"/"}>Help</Link></li>
             <div className=' w-[3px] h-[14px]'>|</div>
-            <li className='font-medium'><Link href={"/"}>Join Us</Link></li>
+            <li className='font-medium'><Link href={"/joinus"}>Join Us</Link></li>
             <div className=' w-[3px] h-[14px]'>|</div>
             <li className='font-medium'><Link href={"/login"}>Sign In</Link></li>
             

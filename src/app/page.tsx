@@ -8,6 +8,7 @@ import Header from '@/components/header'
 import Hero from '@/components/hero'
 import HeroSec from '@/components/herosec'
 import HeroSecTwo from '@/components/herosectwo'
+import Navigation from '@/components/navigation'
 import TopHeader from '@/components/topheader'
 import React from 'react'
 
@@ -25,7 +26,9 @@ const Home = () => {
       <GearUp/>
       <DontMiss/>
       <Essential/>
+      <Navigation/>
       <Footer/>
+
     </div>
   )
 }
